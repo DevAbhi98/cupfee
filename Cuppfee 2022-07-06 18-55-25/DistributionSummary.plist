@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Cuppfee.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>BF8EB9163567F614D3D7661C0DCCB13E1A8679DD</string>
+				<key>dateExpires</key>
+				<string>18/10/22</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>L793VYURDP.com.new.Cuppfee</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>L793VYURDP</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>Cuppfee.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>2d7c556f-4c2e-4e81-83df-2a613fab46e2</string>
+				<key>dateExpires</key>
+				<string>16/06/23</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>L793VYURDP</string>
+				<key>name</key>
+				<string>Shraddha Shaw</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
